@@ -1,6 +1,6 @@
 extends Node2D
 
-var minutes = 15;
+var minutes = 5;
 var seconds = 03;
 const TIME_PERIOD = 1; # 500ms
 var time = 0;
