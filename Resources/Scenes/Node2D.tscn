@@ -63,7 +63,7 @@ rect_min_size = Vector2( 135, 150 )
 custom_fonts/normal_font = SubResource( 3 )
 visible_characters = 2
 tab_size = 2
-text = "15"
+text = "5"
 scroll_active = false
 
 [node name="RichTextLabel2" type="RichTextLabel" parent="TextureRect/HBoxContainer"]
@@ -98,11 +98,11 @@ tab_size = 2
 scroll_active = false
 
 [node name="TextureRect2" type="TextureRect" parent="."]
-margin_left = 9.0
-margin_top = 3.0
-margin_right = 409.0
-margin_bottom = 153.0
-rect_min_size = Vector2( 400, 150 )
+margin_left = 8.98975
+margin_top = 2.99658
+margin_right = 1008.99
+margin_bottom = 302.997
+rect_min_size = Vector2( 1000, 300 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
